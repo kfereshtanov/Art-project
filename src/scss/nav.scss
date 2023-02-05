@@ -1,0 +1,15 @@
+.nav {
+    ul {
+        display: flex;
+    }
+
+    li + li {
+        margin-left: 50px;
+    }
+
+    li a {
+        font-size: 22px;
+        text-decoration: none;
+        color: #000;
+    }
+}

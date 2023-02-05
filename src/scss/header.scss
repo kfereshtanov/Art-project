@@ -1,0 +1,16 @@
+.header {
+    position: relative;
+    padding: 20px;
+    z-index: 100;
+
+   .header__inner {
+        display: flex;
+        align-items: center;
+   }
+
+   .header__logo {
+        display: inline-block;
+        vertical-align: middle;
+        flex: 1 0 0;
+   }
+}

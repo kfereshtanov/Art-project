@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Picture 1",
+        "price": 10.99,
+        "imgUrl": "/imgs/picture1.jpg",
+        "authorID": 1,
+        "authorName": "Vesko"
+    },
+    {
+        "id": 2,
+        "name": "Picture 2",
+        "price": 20.99,
+        "imgUrl": "/imgs/picture2.jpg",
+        "authorID": 2,
+        "authorName": "Venci"
+    },
+    {
+        "id": 3,
+        "name": "Picture 3",
+        "price": 30.99,
+        "imgUrl": "/imgs/picture3.jpg",
+        "authorID": 3,
+        "authorName": "Koce"
+    },
+    {
+        "id": 4,
+        "name": "Picture 4",
+        "price": 40.99,
+        "imgUrl": "/imgs/picture4.jpg",
+        "authorID": 4,
+        "authorName": "Mihaela"
+    },
+    {
+        "id": 5,
+        "name": "Picture 5",
+        "price": 50.99,
+        "imgUrl": "/imgs/picture5.jpg",
+        "authorID": 4,
+        "authorName": "Mihaela"
+    },
+    {
+        "id": 6,
+        "name": "Picture 6",
+        "price": 60.99,
+        "imgUrl": "/imgs/picture6.jpg",
+        "authorID": 4,
+        "authorName": "Mihaela"
+    }
+]

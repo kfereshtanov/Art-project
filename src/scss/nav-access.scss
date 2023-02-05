@@ -1,0 +1,18 @@
+.nav-access {
+    flex: 1 0 0;
+
+    ul {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    li + li {
+        margin-left: 50px;
+    }
+
+    li a {
+        font-size: 22px;
+        text-decoration: none;
+        color: #000;
+    }
+}
